@@ -1,0 +1,22 @@
+{
+    "name": "aruco-print",
+    "version": "1.0.0",
+    "description": "This is a small website which allows you to easily print multiple ArUco-markers at once: you can generate a specific number of markers, set the width of the markers and the spacing on the paper.",
+    "main": "index.js",
+    "scripts": {
+        "start": "lite-server"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lijovijayan/aruco-print.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/lijovijayan/aruco-print/issues"
+    },
+    "homepage": "https://github.com/lijovijayan/aruco-print#readme",
+    "devDependencies": {
+        "lite-server": "^2.6.1"
+    }
+}
